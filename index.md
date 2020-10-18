@@ -1,3 +1,3 @@
 I am a PhD student in Information Systems at Rensselaer Polytechnic Institute. Currently working under the supervision of [Professor Ravichandran](https://homepages.rpi.edu/~ravit/). I also worked as a research extern at IBM's Causal Knowledge Extraction.I am currently working as a research assistant at IBM's Graph Convolutional Network for Climate and Credit Risk prediction research.My research interests include application of NLP in financial documents with graph theory, and also application of NLP for cyber risk prediction.
 
-  [github](https://github.com/hpataci),  (mailto:patach@rpi.edu),  [twitter](https://twitter.com/hilalshares)
+  [github](https://github.com/hpataci),  [twitter](https://twitter.com/hilalshares)
